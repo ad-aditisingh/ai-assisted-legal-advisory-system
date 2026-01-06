@@ -1,6 +1,6 @@
 from fastapi import FastAPI
 from app.routes.advisory import router as advisory_router
-from app.models.database import init_db
+from app.models.init_db import init_db
 
 app = FastAPI(
     title="AI-Assisted Legal Advisory System",
