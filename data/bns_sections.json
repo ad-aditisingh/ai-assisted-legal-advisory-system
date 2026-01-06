@@ -1,0 +1,14 @@
+[
+  {
+    "section_number": "BNS 103",
+    "title": "Theft",
+    "keywords": ["steal", "stolen", "theft", "took"],
+    "description": "Dishonest taking of movable property without consent."
+  },
+  {
+    "section_number": "BNS 316",
+    "title": "Criminal Breach of Trust",
+    "keywords": ["trust", "misuse", "not returned", "embezzlement"],
+    "description": "Dishonest misappropriation of property entrusted to a person."
+  }
+]
