@@ -1,0 +1,16 @@
+# Virtual environment
+venv/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Database (local only)
+legal_advisory.db
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# VS Code
+.vscode/
